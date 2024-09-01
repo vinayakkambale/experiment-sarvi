@@ -1,0 +1,13 @@
+.datatable-selector {
+  outline: none;
+  margin-right: 2px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.datatable-input {
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
